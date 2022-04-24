@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BioMetricAuth</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="auth_title">Biometric Authentication Demo</string>
+    <string name="auth_subTitle">Authentication is required</string>
+    <string name="auth_description">Fingerprint Authentication is required to protect your data</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="sensitive_data">Sensitive data !!</string>
+    <string name="authentication_cancelled">Authentication was cancelled by the user</string>
+    <string name="fingerprint_issue">Fingerprint has not been enabled in settings</string>
+    <string name="auth_success">Authentication Success!</string>
+</resources>
